@@ -1,5 +1,0 @@
-Ola mundo
-
-teste git 
-
-Agora vamos fazer um outro commit

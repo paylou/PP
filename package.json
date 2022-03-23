@@ -1,0 +1,23 @@
+{
+  "name": "projetopp",
+  "version": "1.0.0",
+  "description": "Programa utilizado durante as aulas de PP",
+  "main": "exemplo.js",
+  "scripts": {
+    "start": "tsc && node dist/exemplo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paylou/PP.git"
+  },
+  "author": "Paulo Guilherme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paylou/PP/issues"
+  },
+  "homepage": "https://github.com/paylou/PP#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
